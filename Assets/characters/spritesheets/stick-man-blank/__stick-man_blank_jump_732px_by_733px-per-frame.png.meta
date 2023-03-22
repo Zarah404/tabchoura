@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 2745963a8c00b8145a42b1ca89bcd212
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_0
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2230
+        width: 273
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6231e507f99e74f9543b42f8a63c20
+      internalID: 1443682585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_1
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2240
+        width: 238
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456e7fff484cc244b0cc6f0076a34d4
+      internalID: 883307710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_2
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2236
+        width: 234
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a78904f8582664e95403db69f20a02
+      internalID: 808285617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_3
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 2240
+        width: 238
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113e0d10fc1a50459b4eac427f0da15
+      internalID: -306639145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1498
+        width: 302
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a20e91ed5cb4143bfe5a275ff2a5f3
+      internalID: 828913543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_5
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1509
+        width: 229
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b958f7209332f49b89760a496bd4c5
+      internalID: -1987086333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_6
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1509
+        width: 371
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde6b943ddf04f4a89895196f363a8b
+      internalID: 1823374880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_7
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 1577
+        width: 425
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d993f73298105734693306669ebc8cfe
+      internalID: 386599047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 932
+        width: 431
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8c21442abc77d478b0b8c7ff5327f3
+      internalID: 1098587875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 947
+        width: 460
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c97b6e5804dc74385765dfff51cad8
+      internalID: -1886037707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_10
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 879
+        width: 417
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0959ee7be781d4f9df04b74613404b
+      internalID: 1183597691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_11
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 811
+        width: 294
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77162b49430735d498c6987f5e0ccaeb
+      internalID: -1666190953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 87
+        width: 234
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4b54a5295dda4086c4c187a49846d
+      internalID: -656645106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_13
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 92
+        width: 256
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c1dad73e4f88448d38ad7e2d2d789
+      internalID: -1699269252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_14
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 53
+        width: 285
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ca8b4cf8762741bab4d90bdeac9aa
+      internalID: -1750624989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __stick-man_blank_jump_732px_by_733px-per-frame_15
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 0
+        width: 281
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551ee56d16bba7d42b520726e125658d
+      internalID: -459126204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      __stick-man_blank_jump_732px_by_733px-per-frame_3: -306639145
+      __stick-man_blank_jump_732px_by_733px-per-frame_1: 883307710
+      __stick-man_blank_jump_732px_by_733px-per-frame_4: 828913543
+      __stick-man_blank_jump_732px_by_733px-per-frame_15: -459126204
+      __stick-man_blank_jump_732px_by_733px-per-frame_13: -1699269252
+      __stick-man_blank_jump_732px_by_733px-per-frame_8: 1098587875
+      __stick-man_blank_jump_732px_by_733px-per-frame_2: 808285617
+      __stick-man_blank_jump_732px_by_733px-per-frame_0: 1443682585
+      __stick-man_blank_jump_732px_by_733px-per-frame_5: -1987086333
+      __stick-man_blank_jump_732px_by_733px-per-frame_12: -656645106
+      __stick-man_blank_jump_732px_by_733px-per-frame_7: 386599047
+      __stick-man_blank_jump_732px_by_733px-per-frame_6: 1823374880
+      __stick-man_blank_jump_732px_by_733px-per-frame_9: -1886037707
+      __stick-man_blank_jump_732px_by_733px-per-frame_11: -1666190953
+      __stick-man_blank_jump_732px_by_733px-per-frame_14: -1750624989
+      __stick-man_blank_jump_732px_by_733px-per-frame_10: 1183597691
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
