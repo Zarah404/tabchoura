@@ -14,6 +14,16 @@ public class playerMove : MonoBehaviour
     bool jump = false ;
     bool crouch = false ;
 
+    /*[SerializeField] private AudioSource Jump_Sound;
+    [SerializeField] private AudioSource throw_Sound;
+    [SerializeField] private AudioSource Shotgun_Sound;
+    [SerializeField] private AudioSource Bazooka_Sound;*/
+    //public AudioSource Jump_Sound;
+    //[SerializeField] private AudioSource Collect_Sound;
+    void Start()
+    {
+        AudioSource audioSource = GetComponent<AudioSource>();
+    }
     void Update()
     {
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed ;
@@ -24,6 +34,7 @@ public class playerMove : MonoBehaviour
         {
             jump = true ;
             anim.SetBool("isJumping",true);
+            //JumpSound.Play();
         }
 
         if(Input.GetButtonDown("Crouch"))
@@ -43,6 +54,7 @@ public class playerMove : MonoBehaviour
         if (Input.GetButtonDown("Fire1"))
         {
             anim.SetBool("Throwing",true);
+            //throw_Sound.Play();
         }
         if (Input.GetButtonUp("Fire1"))
         {
@@ -54,6 +66,7 @@ public class playerMove : MonoBehaviour
         if (Input.GetButtonDown("Fire2"))
         {
             anim.SetBool("bazooka",true);
+            //Bazooka_Sound.Play();
         }
         if (Input.GetButtonUp("Fire2"))
         {
@@ -66,6 +79,7 @@ public class playerMove : MonoBehaviour
         if (Input.GetButtonDown("Fire3"))
         {
             anim.SetBool("shooting",true);
+            //Shotgun_Sound.Play();
         }
         if (Input.GetButtonUp("Fire3"))
         {
